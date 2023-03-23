@@ -1,0 +1,19 @@
+.all {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+
+}
+
+.boardRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.status {
+  font-weight: bold;
+  color: #df1111;
+  margin: 10px;
+  font-size: x-large;
+}
